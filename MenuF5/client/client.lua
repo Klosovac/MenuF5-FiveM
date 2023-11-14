@@ -1144,7 +1144,7 @@ RegisterCommand("discord",function()
 end)
 
 function discordapp()
-	ESX.ShowNotification("~g~Bienvenue~s~ \nVoici le lien Discord du serveur : ~o~https://discord.gg/Five-Dev")
+	ESX.ShowNotification("~g~Bienvenue~s~ \nVoici le lien Discord du serveur : ~o~https://discord.gg/discord.fr")
 end
 
 --- DP
